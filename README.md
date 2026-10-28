@@ -39,9 +39,9 @@ G6 让学习者像阅读一份研究报道那样进入科学问题：先弄清�
 ## 访问与学习记录
 
 GitHub 仓库：https://github.com/wangyimi332-sudo/golden-frog-science-g6
-待启用的 GitHub Pages 地址：https://wangyimi332-sudo.github.io/golden-frog-science-g6/
+已验证课程网址：https://wangyimi332-sudo.github.io/golden-frog-science-g6/
 
-完整项目已上传 GitHub；GitHub Pages 尚未启用，课程网址目前不能作为公开入口。
+GitHub Pages 已发布并实测可访问：课程首页、章节图、英语音频、脚本和样式均正常加载。学习记录只保存在当前浏览器；更换设备或网址前请导出备份。
 
 本仓库根目录为已编译的网页发布文件；学习档案不上传仓库。
 
