@@ -10,17 +10,17 @@ California Science Grade 6 把科学英语学习推进到“阅读一份研究�
 
 完整网站已上传到 GitHub 仓库：https://github.com/wangyimi332-sudo/golden-frog-science-g6 。GitHub Pages 尚需在仓库 Settings → Pages 中首次启用，课程网址启用前请勿作为正式入口。
 
-## 发布
+## 启用 GitHub Pages
 
-1. 新建 GitHub 仓库，默认分支 main。
-2. 将本目录内所有文件上传仓库根目录，包括隐藏目录 .github。不要只上传 ZIP 文件。
-3. Settings → Pages → Source 选择 GitHub Actions。
-4. 在 Actions 运行 Publish website，等待成功，再使用 Pages 显示的正式网址。
-5. 用手机无痕窗口验证首页、课程、图片和音频，然后更新项目集文档。
+1. 打开已上传的仓库，进入 Settings → Pages。
+2. 将 Build and deployment 的 Source 设为 GitHub Actions。
+3. 在 Actions 中重新运行 Publish website，成功后再使用 Pages 网址。
+4. 用手机无痕窗口核对首页、课程、图片和音频。
 
 本包已经编译，无需在 GitHub 安装 Node。仓库可见性与账户方案须支持 Pages。正式托管与本地电脑是否开机无关。
 
 源码在项目的 site/src。学习数据只保存在当前浏览器和网址；换网址或设备前导出 JSON。开放写作由学习者自检，不提供自动评分。音频为 Kokoro Heart AI 配音；图像为 AI 情境示意，不作精确测量。
 
 工作流参考：https://github.com/actions/starter-workflows/blob/main/pages/static.yml
+
 
