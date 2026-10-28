@@ -1,0 +1,218 @@
+{
+  "model": "Kokoro-82M v1.0",
+  "voice": "af_heart",
+  "license": "Apache-2.0",
+  "notice": "AI-generated narration, not a human recording.",
+  "clips": [
+    {
+      "id": "1.1",
+      "file": "1.1.mp3",
+      "duration": 52.54,
+      "text": "Introduction to Earth’s Ecosystems. An ecosystem includes organisms and the nonliving conditions with which they interact. A population contains members of one species in an area; a community includes interacting populations. A habitat is where an organism lives, while its niche describes how it uses resources and interacts with other organisms. In a fictional pond survey, students record reeds, insects, water temperature, and sunlight. Temperature is not alive, yet changing it can affect living populations. The survey becomes more useful when the students explain relationships rather than merely list objects. A short visit may miss organisms active at another time. Biotic and abiotic factors interact. Recording both supports explanations of changes, although one survey cannot reveal every cause."
+    },
+    {
+      "id": "1.2",
+      "file": "1.2.mp3",
+      "duration": 53.26,
+      "text": "Photosynthesis: The Basic Process of Life. Photosynthesis transfers light energy into chemical energy stored in sugars. Plants use carbon dioxide and water, releasing oxygen. Cellular respiration transfers energy from food into forms cells can use. These linked processes help explain how matter and energy move through living systems. A fictional class compares similar plants under bright and dim light, keeping water and temperature similar. Greater growth under bright light would support a role for light but would not measure every photosynthetic reaction. Plants also lose water through transpiration. Growth, gas exchange, and water loss are related observations, not interchangeable measurements. Keeping water similar helps isolate light’s effect. Plant growth is evidence to interpret, not a direct measure of every chemical step."
+    },
+    {
+      "id": "1.3",
+      "file": "1.3.mp3",
+      "duration": 52.92,
+      "text": "Microscopic Organisms on Earth. Microscopic organisms differ in their structures and roles. Prokaryotic cells do not enclose their genetic material in a nucleus, whereas eukaryotic cells do. Some microscopic organisms make food using light, some consume other organisms, and others help recycle matter. Small size does not imply one ecological role. A microscope image shows a moving cell, but its internal structures are unclear. A student calls it a bacterium based only on size. Another asks for a clearer image and evidence about cell organization. Careful identification separates what can be seen from what is inferred. Not all microbes cause disease. Cell organization provides stronger evidence than size alone. The image may not resolve the required structures, so uncertainty should remain explicit."
+    },
+    {
+      "id": "1.4",
+      "file": "1.4.mp3",
+      "duration": 52.39,
+      "text": "Earth’s Food Chains, Webs, and Pyramids. Food webs represent feeding relationships and the transfer of energy. Producers capture energy, consumers obtain it by feeding, and decomposers help return matter to the environment. Arrows in this course point from a food source toward the organism receiving energy. Energy flows through systems, while matter can cycle. In an invented pond web, algae support small grazers, which support fish. A decrease in algae could affect more than one population, but other food sources may reduce the effect. A web is therefore more informative than one chain. It still omits quantities, seasonal changes, and many indirect interactions. The arrow points toward the energy recipient. Food-web predictions are conditional because organisms may have multiple food sources and other constraints."
+    },
+    {
+      "id": "1.5",
+      "file": "1.5.mp3",
+      "duration": 51.3,
+      "text": "Earth’s Cycles for Life. Water, carbon, and nitrogen move among organisms and the environment. Decomposition helps return materials to forms that can be used again. These cycles connect living and nonliving parts of Earth. Energy behaves differently: it enters, is transferred, and eventually disperses as heat rather than cycling in the same way as matter. Students track fallen leaves in a fictional compost study. The leaves become less recognizable, but their matter has not simply vanished. Some material enters decomposers, some enters soil or air, and water may also leave. A measurement of the remaining solid alone does not account for every pathway. A system boundary determines what is counted. Changes in one store do not imply matter vanished; several transfers may be involved."
+    },
+    {
+      "id": "2.1",
+      "file": "2.1.mp3",
+      "duration": 52.48,
+      "text": "Earth’s Land Biomes. Land biomes are broad ecological regions associated with climate and characteristic vegetation. Temperature and precipitation influence what can grow, while soil, disturbance, and local conditions also matter. A biome map simplifies boundaries that are often gradual rather than sharply drawn on the ground. Two invented sites receive similar annual precipitation, but one has a long cold winter and the other stays warm. Similar rainfall alone does not establish the same biome. Seasonal timing also matters: rain arriving during a cool season may support different conditions from rain arriving during peak growth. Climate patterns involve temperature, precipitation, and timing. Biome labels summarize broad patterns and do not describe every local habitat."
+    },
+    {
+      "id": "2.2",
+      "file": "2.2.mp3",
+      "duration": 53.12,
+      "text": "Earth’s Water Ecosystems. Aquatic ecosystems vary with salinity, depth, light, movement, and other conditions. An estuary connects freshwater inflow with the sea, so its salinity can change across space and time. Organisms living on the bottom experience different conditions from those swimming freely or drifting in the water. A fictional estuary team samples near the river and near the sea at two tide stages. One reading cannot represent the whole estuary. To make a useful comparison, the team records location, time, and depth. This design reveals variation without assuming the water is uniformly fresh or uniformly salty. Multiple locations and times help characterize changing conditions. A clear-looking sample is not necessarily representative of salinity or water quality."
+    },
+    {
+      "id": "2.3",
+      "file": "2.3.mp3",
+      "duration": 56.28,
+      "text": "Ecosystems in California. California contains many ecosystems because its elevation, climate, landforms, and coastal influences vary. Chaparral includes shrubs adapted to seasonally dry conditions. Adaptation does not mean that every organism tolerates any disturbance. The frequency and intensity of disturbances can change ecological outcomes. Students compare an imagined coastal site and inland slope. They record moisture, vegetation, and exposure rather than assuming both are identical because they are in one state. Their observations describe these sites at the sampling time. Broader claims require repeated records and attention to disturbance history. Local conditions influence survival and growth within broad regional patterns. Adaptations improve performance under certain conditions, not all possible conditions."
+    },
+    {
+      "id": "3.1",
+      "file": "3.1.mp3",
+      "duration": 50.59,
+      "text": "Heat Flow. Temperature relates to the average kinetic energy of particles, while heat is energy transferred because of a temperature difference. Thermal energy also depends on the amount and type of material. A small hot object does not necessarily contain more thermal energy than a much larger warm one. An invented investigation places identical cups of warm water in cooler surroundings. One is wrapped and one is unwrapped. Both cool, but the wrapped cup changes temperature less over the same time. This suggests that insulation slowed energy transfer; it did not create energy or guarantee that cooling would stop. Insulation slows transfer. Temperature is not a direct measure of all thermal energy in an object, and the result applies to the stated conditions."
+    },
+    {
+      "id": "3.2",
+      "file": "3.2.mp3",
+      "duration": 50.13,
+      "text": "Waves. Waves transfer energy through disturbances. Wavelength measures the distance between corresponding points; frequency counts cycles per second; amplitude measures the size of a disturbance. Sound needs a material medium, while electromagnetic waves can travel through a vacuum. These distinctions matter when comparing wave models. Two simulated wave records cover the same time interval. Record A has four cycles and B has eight, so B has twice the frequency. A larger amplitude would be a separate change. Counting cycles does not determine amplitude, and a rope demonstration cannot represent every property of light. Frequency compares cycle counts over time. Amplitude and wavelength are distinct properties; additional information is needed to compare them."
+    },
+    {
+      "id": "3.3",
+      "file": "3.3.mp3",
+      "duration": 51.1,
+      "text": "Fuels: Our Major Energy Source. Fuels store chemical energy that can be transferred during reactions. Devices transform energy into useful outputs and other forms, including dispersed heat. Renewable describes how a resource is replenished on human timescales; it does not mean that obtaining or using it has no environmental impact. A fictional heater receives 100 energy units and transfers 70 to the intended water tank. The remaining 30 reach other surroundings. The energy is not destroyed, but it is less useful for the stated task. Comparing devices requires a consistent definition of the desired output and system boundary. Useful output depends on the task. The total transfers account for the input, but only 70 units serve the stated purpose in this model."
+    },
+    {
+      "id": "3.4",
+      "file": "3.4.mp3",
+      "duration": 55.1,
+      "text": "Heat Transfer in Solids and Fluids. Conduction transfers energy through interactions within matter without bulk movement of the material. Convection transfers energy with moving fluids. Heating can reduce a fluid’s density, allowing buoyancy to drive motion under suitable conditions. Radiation provides another transfer pathway and does not require matter between source and receiver. A metal spoon warms in hot water while water circulates within the cup. The spoon and the moving water illustrate different mechanisms. In real situations, several mechanisms may act at once. Naming the dominant mechanism requires specifying which part of the system and which transfer are being discussed. The spoon conducts energy, moving water convects, and surfaces also exchange radiation. State the specific pathway instead of labeling an entire complex scene with one word."
+    },
+    {
+      "id": "4.1",
+      "file": "4.1.mp3",
+      "duration": 51.51,
+      "text": "Electromagnetic Spectrum. Electromagnetic radiation includes radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays. These categories differ in wavelength and frequency. Visible light is only a small part of the spectrum. Materials can absorb, reflect, or transmit radiation differently at different wavelengths. Two fictional surfaces receive the same light. One reflects more and warms less under the stated conditions. That observation supports a difference in energy absorption but does not identify behavior across every wavelength. A surface that looks dark in visible light need not behave identically throughout the spectrum. Material response can depend on wavelength. Generalizing from one part of the spectrum requires additional evidence."
+    },
+    {
+      "id": "4.2",
+      "file": "4.2.mp3",
+      "duration": 54.2,
+      "text": "Solar Radiation. Solar radiation supplies energy for many surface processes, including evaporation and photosynthesis. Uneven absorption contributes to temperature differences. Energy can be reflected back or absorbed and later emitted. Earth’s internal heat and nuclear processes are important exceptions to claims that every energy source is solar. An imagined school compares a shaded and sunny surface of the same material. Different temperatures support an effect of incoming sunlight under those conditions. Students must still consider timing and airflow. To connect this test to the water cycle, they distinguish energy input from the water molecules that move between stores. Energy input supports a phase change; the matter is water moving between stores. Distinguishing these roles prevents treating sunlight as a material ingredient."
+    },
+    {
+      "id": "4.3",
+      "file": "4.3.mp3",
+      "duration": 56.04,
+      "text": "The Power of Convection Currents. Uneven heating contributes to atmospheric and ocean circulation. Density differences can drive convection, while Earth’s rotation, landforms, and other factors shape the resulting movement. Large circulation patterns cannot be understood from one warm-rises arrow alone. Models must state which influences they include. A tank model shows warmer water moving upward and cooler water replacing it. It illustrates buoyancy-driven circulation but lacks continents, winds, salinity differences, and Earth’s rotation. Applying it to an ocean requires explaining both the useful analogy and the missing processes. A successful demonstration is not a complete forecast. The tank supports an explanation of convection. Real circulation also depends on other forces and conditions, so model limitations belong in the conclusion."
+    },
+    {
+      "id": "5.1",
+      "file": "5.1.mp3",
+      "duration": 50.8,
+      "text": "Earth’s Moving Plates. Evidence for moving plates includes matching geological patterns, earthquake locations, and the age pattern of ocean-floor rocks. One suggestive observation is weaker than several independent lines of evidence that support the same explanation. Scientific explanations become stronger when they predict patterns that can be checked. In a simplified ocean-floor record, younger rocks lie near a ridge and older rocks occur farther away on both sides. This pattern supports new crust forming near the ridge and moving outward. Matching coastlines alone would be less persuasive because coastlines change and can resemble one another by chance. An age pattern can test a proposed process. Combining it with other evidence is stronger than relying on a visual resemblance alone."
+    },
+    {
+      "id": "5.2",
+      "file": "5.2.mp3",
+      "duration": 51.39,
+      "text": "Plate Tectonics: A Unifying Theory. Plate tectonics links the motion of the lithosphere with patterns of earthquakes, volcanoes, and mountain building. The lithosphere includes crust and uppermost mantle. The underlying mantle is mostly solid but can deform over long times. It should not be pictured as an ocean of liquid magma. At divergent boundaries, plates move apart. At convergent boundaries, they move toward each other; some involve subduction. Transform boundaries involve sideways motion. A single cross-section cannot represent every boundary type, and not every convergent boundary produces the same landforms. Long-term deformation does not require the mantle to be entirely liquid. Plate boundaries describe relative motion, and their landforms depend on the plates involved."
+    },
+    {
+      "id": "5.3",
+      "file": "5.3.mp3",
+      "duration": 53.59,
+      "text": "Earthquakes. An earthquake’s focus is where rupture begins underground; the epicenter lies above it at the surface. Magnitude describes earthquake size, while intensity describes effects at a location. Modern reporting commonly uses moment magnitude, especially for larger earthquakes; the older Richter label should not be used for every measurement. In a fictional event, two towns report different shaking despite sharing the same earthquake magnitude. Distance, ground conditions, and buildings can affect local impacts. Several seismic stations help locate an earthquake. One measurement at one location cannot represent all effects across the region. Magnitude characterizes the event; intensity varies with location and conditions. This distinction helps explain why equal distance alone may not predict equal damage."
+    },
+    {
+      "id": "5.4",
+      "file": "5.4.mp3",
+      "duration": 54.52,
+      "text": "Volcanoes. Volcanoes differ in shape, materials, and eruptive behavior. Some form near convergent or divergent plate boundaries, while others are associated with hot spots. Magma is below the surface; lava is erupted material. A volcano’s appearance alone does not provide an exact forecast of its next eruption. A simplified comparison describes broad shield volcanoes and steeper composite volcanoes. Shape reflects construction over time, but monitoring requires more than a photograph. Scientists examine changing signals such as earthquakes, deformation, and gas release. These observations inform assessments while leaving uncertainty about timing and outcomes. Monitoring changes across several signals is more informative than one appearance. It still does not justify promising an exact eruption time."
+    },
+    {
+      "id": "5.5",
+      "file": "5.5.mp3",
+      "duration": 50.77,
+      "text": "How Plate Tectonics Affects California. California’s geology reflects plate interactions, including motion along the boundary between the Pacific and North American plates. The San Andreas Fault is a major transform fault, not the entire boundary system. Relative motion accumulates strain and can produce earthquakes along faults. An imagined fault map shows several linked segments. A student concludes that risk ends at the thin line drawn on the map. The conclusion ignores shaking that travels beyond the fault and variations in local ground conditions. A map helps locate structures but does not turn a complex hazard into a sharp safe–unsafe border. A fault map represents a geological structure. Shaking and impacts extend beyond the line and depend on additional conditions."
+    },
+    {
+      "id": "6.1",
+      "file": "6.1.mp3",
+      "duration": 51.18,
+      "text": "Atmospheric Pressure, Temperature, and Weather. Weather emerges from interacting conditions including pressure, temperature, moisture, and moving air. Relative humidity depends on temperature as well as water vapor. Dew point describes a temperature at which air becomes saturated under specified conditions. A single variable rarely explains a whole weather event. In a simplified record, air cools overnight while its water-vapor content remains similar. Relative humidity rises and condensation may occur if saturation is reached. This does not mean new water vapor must have entered the air. Students should distinguish a relative measure from the absolute amount of water present. Relative humidity compares water vapor with saturation at that temperature. Cooling can change the ratio without adding vapor."
+    },
+    {
+      "id": "6.2",
+      "file": "6.2.mp3",
+      "duration": 53.25,
+      "text": "Weathering, Erosion, and Deposition. Weathering breaks rock down or changes it in place. Erosion transports material, while deposition occurs when transported material settles or accumulates. The three processes can operate in a connected landscape, but they describe different actions. A broken rock is not evidence of transport unless movement is also shown. An imagined hillside record follows fragments from a cracked rock into a stream and onto a low bank. The route connects local breakdown with downstream change. Investigators compare slope, flow, and particle size to explain where sediment ends up. A single photograph may show the result without revealing the full sequence. Transport is central to erosion. Weathering supplies material, and deposition stores it elsewhere; the processes can be linked without being interchangeable."
+    },
+    {
+      "id": "6.3",
+      "file": "6.3.mp3",
+      "duration": 58.17,
+      "text": "Rivers and Streams. A river is both a water pathway and a transporter of sediment. In a meander, differences in flow can erode one bank while depositing material elsewhere. Over time, a bend may be cut off, leaving an oxbow lake. A floodplain records repeated interactions between the channel, sediment, and floodwater. In a fictional model, fast-flow trial A transports 18 sediment units and slower trial B transports 8 under otherwise comparable conditions. The comparison supports a role for flow, but real transport also depends on grain size, water depth, and sediment supply. Straightening a channel may therefore have effects beyond the construction site. The simulated difference is 10 units. It supports a conditional comparison, not a universal rate. A real channel decision needs evidence about local sediment, floods, habitats, and downstream effects."
+    },
+    {
+      "id": "6.4",
+      "file": "6.4.mp3",
+      "duration": 51.93,
+      "text": "Beaches and Wave Erosion. Waves and currents redistribute coastal sediment. When waves approach at an angle, sediment can move along the shore through longshore transport. Beaches are changing stores rather than permanent piles. Structures that interrupt transport may affect sediment availability at other locations. A fictional beach receives 40 sediment units and loses 55 during a model interval. Its store decreases by 15. Adding a barrier might retain sand nearby while reducing delivery farther along the coast. Evaluating one short stretch alone could miss these connected effects, and storms can change the balance rapidly. Storage change equals input minus output: 40 − 55 = −15. A local intervention should also consider connected stretches of coast."
+    },
+    {
+      "id": "6.5",
+      "file": "6.5.mp3",
+      "duration": 54.21,
+      "text": "Changing Habitats. Changes in land and water can alter habitats and affect communities. Floods may deposit sediment and reshape channels, while levees change where water can spread. An intervention can reduce one risk while shifting another. Evaluation requires attention to timescale, affected places, and whose needs are represented. In an imagined council debate, a higher levee is proposed beside farms. Supporters emphasize local protection; downstream residents ask about water movement; ecologists ask about floodplain habitats. A simplified model can compare selected flows, but decisions also require maintenance plans and evidence about events beyond the model range. Interventions act within connected systems. Evidence can compare consequences, while choices about priorities also require public discussion."
+    },
+    {
+      "id": "7.1",
+      "file": "7.1.mp3",
+      "duration": 55.7,
+      "text": "Sources of Energy. Energy sources differ in availability, conversion pathways, infrastructure, and environmental effects. Comparing them requires a defined task and common units. Efficiency measures useful output relative to input, while overall suitability may also depend on reliability, cost, location, and effects outside the device itself. Two fictional devices each receive 100 energy units. A supplies 80 useful units and B supplies 65, so A has higher modeled conversion efficiency. The result alone does not establish which entire energy system is preferable. Fuel extraction, construction, storage, and the timing of demand remain outside this small comparison. The model compares 80% with 65% useful conversion. Broader suitability includes factors outside that efficiency calculation."
+    },
+    {
+      "id": "7.2",
+      "file": "7.2.mp3",
+      "duration": 52.16,
+      "text": "Renewable and Nonrenewable Resources. Renewable resources are replenished on human timescales, whereas fossil fuels and uranium are finite resources formed or supplied on very different timescales. Renewable does not mean impact-free. Hydropower, wind, and solar systems have different material, land, water, and operational requirements. A fictional town compares solar panels with a fuel-based generator. One operates when sunlight is available; the other depends on continued fuel supply. A fair comparison includes storage or backup where needed and states the required service. Comparing only the moment of electricity generation omits parts of both systems. Renewability concerns replenishment, not an absence of impacts. Nuclear fuel is nonrenewable even though it is not a fossil fuel."
+    },
+    {
+      "id": "7.3",
+      "file": "7.3.mp3",
+      "duration": 64.37,
+      "text": "Uses of Resources. Materials pass through extraction, processing, use, and end-of-life pathways. A life-cycle comparison considers the service provided rather than only the object’s purchase price. Repair, reuse, and recycling can change demand for new resources, but outcomes depend on actual use and local systems. In an invented cup model, a reusable cup requires 60 impact units to make and 2 per use to wash. A disposable cup requires 8 per use. At ten uses both total 80; at twenty uses the reusable option totals 100 and the disposable option 160. The units are fictional and omit transport and breakage, so the result is a model, not a universal product claim. Reusable: 60 + 2×10 = 80; disposable: 8×10 = 80. Conclusions depend on number of uses and assumptions. Changing washing or manufacturing inputs can move the break-even point."
+    },
+    {
+      "id": "humanities-1",
+      "file": "humanities-1.mp3",
+      "duration": 44.67,
+      "text": "Who belongs in the restoration plan?. A fictional town plans to restore a pond. Birdwatchers request more reeds; nearby residents want open paths; students want sampling sites. An ecological survey can measure water quality and species presence, but it cannot decide whose access matters most. The group must distinguish observations from values. A fair proposal should identify affected people, explain its ecological assumptions, and describe what will be monitored after the change. Absence from one survey does not establish that a species never uses the pond. Write a proposal that uses one ecological measurement, represents two groups, and identifies one uncertainty."
+    },
+    {
+      "id": "humanities-2",
+      "file": "humanities-2.mp3",
+      "duration": 42.38,
+      "text": "An estuary is more than a boundary. In an imagined coastal community, fishers, visitors, and conservation groups use the same estuary. Its conditions change with tides and river flow. A map showing only land ownership misses this movement. A planning team compares access routes with habitat observations gathered at different times. A restriction may protect a sensitive area while making access harder for some people. Evaluating the proposal requires ecological evidence and a discussion of fairness, including whose experience is missing from the meeting. How could the team gather evidence across time while giving different users a meaningful voice?"
+    },
+    {
+      "id": "humanities-3",
+      "file": "humanities-3.mp3",
+      "duration": 40.57,
+      "text": "Whose room stays comfortable?. A fictional school compares two insulation plans. One has a lower purchase price; the other reduces modeled heat loss more. Neither number describes how every classroom will feel, because orientation, ventilation, and occupancy differ. Students propose monitoring several rooms before making a whole-school claim. They also ask how savings will be shared and whether maintenance staff can repair the materials. Engineering evidence helps compare options, while public decisions require explicit priorities. Which measurements and whose practical knowledge should be included before choosing a plan?"
+    },
+    {
+      "id": "humanities-4",
+      "file": "humanities-4.mp3",
+      "duration": 41.1,
+      "text": "A useful energy story. A museum wants to explain why sunlight matters to a coastal town. One draft says that every local energy source comes directly from the Sun. Students challenge this overstatement: sunlight drives many surface processes, but nuclear energy and Earth’s internal heat require different explanations. They revise the display to distinguish direct input, stored energy, and exceptions. Clear public communication does not become weaker when a limitation is stated; it becomes easier to check. Write a two-sentence museum caption that connects sunlight with one process and avoids a universal claim."
+    },
+    {
+      "id": "humanities-5",
+      "file": "humanities-5.mp3",
+      "duration": 41.21,
+      "text": "Maps, risk, and responsibility. An imagined town receives a seismic hazard map. Some residents read it as an exact prediction of the next earthquake. A teacher explains that hazard information describes possibilities over space and time, not an appointment for an event. Building quality and local ground conditions also affect impacts. The town must communicate uncertainty without suggesting that preparation is pointless. A responsible public message should separate what the map estimates from what people value and can improve. Explain the map’s usefulness and its limits without promising an exact earthquake date."
+    },
+    {
+      "id": "humanities-6",
+      "file": "humanities-6.mp3",
+      "duration": 45.72,
+      "text": "A river has several readers. A fictional council considers straightening a river bend. Farmers want reliable access to fields; a habitat group worries about bank vegetation; downstream residents ask whether faster flow could change erosion. A short model can compare selected flow conditions but cannot represent every flood. The council should examine more than the cheapest construction plan. Alternatives, upstream effects, maintenance, and long-term monitoring belong in the discussion. A transparent recommendation states both its evidence and the conditions under which it might be revised. Recommend what the council should investigate before changing the channel, drawing on two lessons from this chapter."
+    },
+    {
+      "id": "humanities-7",
+      "file": "humanities-7.mp3",
+      "duration": 43.86,
+      "text": "The price tag is not the whole story. A fictional library chooses between disposable and reusable event cups. Counting purchases is simple; comparing full impacts requires assumptions about washing, transport, breakage, and number of uses. A reusable object is not automatically better under every condition, and a disposable object’s low price does not capture every cost. Students propose a small trial and report their assumptions. This makes disagreement productive: people can ask which input changes the conclusion instead of arguing from labels alone. Design a comparison with a clear unit of service, two measured inputs, and one sensitivity test."
+    }
+  ]
+}
