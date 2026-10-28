@@ -43,6 +43,6 @@ GitHub 仓库：https://github.com/wangyimi332-sudo/golden-frog-science-g6
 
 完整项目已上传 GitHub；GitHub Pages 尚未启用，课程网址目前不能作为公开入口。
 
-网站发布文件在仓库根目录；本地源码和课程数据见 `site/src/`。
+本仓库根目录为已编译的网页发布文件；学习档案不上传仓库。
 
 
